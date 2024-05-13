@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "236977421571",
+    "project_id": "quicklease-fd8d7",
+    "storage_bucket": "quicklease-fd8d7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:236977421571:android:cd9d8a3e351cb2e28d7d36",
+        "android_client_info": {
+          "package_name": "com.darksun.quickleaselandlord"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvg0Cu5p2600x-QDqFggiKl7Yjr1OdpjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
